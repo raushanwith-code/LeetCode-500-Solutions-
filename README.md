@@ -1,4 +1,4 @@
-# 🚀 30 Days – 500 LeetCode Solutions
+# 🚀 – 500 LeetCode Solutions
 
 ## ✨ About This Repository
 This repository is my personal challenge: **solving 500 LeetCode problems in 30 days**.  

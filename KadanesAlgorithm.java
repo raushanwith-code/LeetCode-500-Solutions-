@@ -26,7 +26,7 @@ public class KadanesAlgorithm {
             maxSum=Math.max(maxSum, currSum);
         }
 
-     System.out.println("Your Final Result is:=");
+     System.out.println("Your Final Result of maxsum is:=");
        
 
             System.out.println(maxSum);

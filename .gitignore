@@ -1,0 +1,7 @@
+# Ignore Visual Studio files
+.vs/
+*.json
+*.sqlite
+
+# Keep only Java files
+!*.java

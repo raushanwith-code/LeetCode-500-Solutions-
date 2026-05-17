@@ -23,7 +23,7 @@ public class FindDuplicateNumber {
 
         for (int i = 0; i < arr.length; i++) {  //  Time Complaxcity O(n^2)
 
-            for(int j=i+1; j<arr.length; j++){
+            for(int j=i+1; j<arr.length; j++){ // Space Complexcity O(n^2)
 
                 if(arr[i]==arr[j]){
 

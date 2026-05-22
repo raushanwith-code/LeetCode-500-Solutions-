@@ -36,8 +36,6 @@ This is a personal journey, but feel free to:
 - 💬 Suggest optimizations  
 - 🔄 Share alternative solutions  
 - ⭐ Star the repo if you find it useful  
-
 ---
-
 ⚡ **Keep pushing, keep solving, keep growing!** ⚡  
 👉 GitHub Profile: [raushanwith-code](https://github.com/raushanwith-code)

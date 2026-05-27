@@ -33,7 +33,9 @@ public class MajorityElement {
             }
 
             if(count>arr.length/2){
+                
                 mejority=arr[i];
+                
                 break;
             }
         }

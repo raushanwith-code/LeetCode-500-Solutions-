@@ -11,16 +11,10 @@ public class PowXN {
 
     System.out.println("Enter Times of multiple:=");
     int x=Sc.nextInt();
-    
-    
-
-
-  for(int i=0; i<x; i++){
+    for(int i=0; i<x; i++){
 
    ans *=n;
-
-
-  }
+}
 
   System.out.println("Final ans is:=");
 

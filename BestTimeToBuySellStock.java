@@ -17,6 +17,8 @@ public class BestTimeToBuySellStock {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
 
+        System.out.println("Enter Array Element");
+
         for (int ele : arr) {
             if (ele < minPrice) {
                 minPrice = ele;

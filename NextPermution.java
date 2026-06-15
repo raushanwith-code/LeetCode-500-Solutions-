@@ -5,7 +5,7 @@ class NextPermution {
     public static void nextPermutation(int arr[]) {
         int n = arr.length;
 
-        // Step 1: Find pivot
+        // Step 1: Find pivot Element in  a Arrays
         int i = n - 2;
         while (i >= 0 && arr[i] >= arr[i + 1]) {
             i--;
